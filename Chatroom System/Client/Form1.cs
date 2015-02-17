@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net.Sockets;
 
-namespace Chatroom_System
+namespace Client
 {
     public partial class Form1 : Form
     {
@@ -44,7 +44,7 @@ namespace Chatroom_System
 
         public void msg(string mesg)
         {
-            textBox1.Text = textBox1.Text + Environment.NewLine + " >> " + mesg;
+            label2.Text = " >> " + mesg;
         }
     }
 }

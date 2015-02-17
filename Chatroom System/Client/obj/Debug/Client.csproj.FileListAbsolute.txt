@@ -1,0 +1,9 @@
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\bin\Debug\Client.exe.config
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\bin\Debug\Client.exe
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\bin\Debug\Client.pdb
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\obj\Debug\Client.Form1.resources
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\obj\Debug\Client.Properties.Resources.resources
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\obj\Debug\Client.exe
+X:\Documents\GitHub\Chatroom\Chatroom System\Client\obj\Debug\Client.pdb

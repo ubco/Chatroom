@@ -8,3 +8,12 @@ C:\Users\Norbert\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\D
 C:\Users\Norbert\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom System.csproj.GenerateResource.Cache
 C:\Users\Norbert\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom System.exe
 C:\Users\Norbert\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom System.pdb
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\bin\Debug\Chatroom System.exe.config
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom System.exe
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom System.pdb
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\bin\Debug\Chatroom System.exe
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\bin\Debug\Chatroom System.pdb
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom System.csprojResolveAssemblyReference.cache
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom_System.Form1.resources
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom_System.Properties.Resources.resources
+X:\Documents\GitHub\Chatroom\Chatroom System\Chatroom System\obj\Debug\Chatroom System.csproj.GenerateResource.Cache

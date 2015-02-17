@@ -1,0 +1,6 @@
+X:\Documents\GitHub\Chatroom\Chatroom System\Server\bin\Debug\Server.exe.config
+X:\Documents\GitHub\Chatroom\Chatroom System\Server\bin\Debug\Server.exe
+X:\Documents\GitHub\Chatroom\Chatroom System\Server\bin\Debug\Server.pdb
+X:\Documents\GitHub\Chatroom\Chatroom System\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+X:\Documents\GitHub\Chatroom\Chatroom System\Server\obj\Debug\Server.exe
+X:\Documents\GitHub\Chatroom\Chatroom System\Server\obj\Debug\Server.pdb
